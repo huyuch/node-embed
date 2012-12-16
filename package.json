@@ -1,0 +1,13 @@
+{
+  "name": "node-embed",
+  "version": "0.0.1",
+  "description": "支持优酷、土豆、搜狐、酷6",
+  "scripts": {
+    "start": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/huyuch/node-embed.git"
+  },
+  "author": "huyuch@163.com"
+}
